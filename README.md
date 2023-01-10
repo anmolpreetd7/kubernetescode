@@ -1,3 +1,8 @@
+
+![GitOps_results](https://user-images.githubusercontent.com/120874954/211651201-ab2ff6b7-f26e-408c-8ea0-f6e27e2d4050.png)
+
+
+
 ## What this does?
 This repo along with https://github.com/saha-rajdeep/kubernetesmanifest creates a Jenkins pipeline with GitOps to deploy code into a Kubernetes cluster. CI part is done via Jenkins and CD part via ArgoCD (GitOps).
 
