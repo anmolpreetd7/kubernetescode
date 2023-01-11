@@ -1,5 +1,4 @@
-
-![GitOps_results](https://user-images.githubusercontent.com/120874954/211651201-ab2ff6b7-f26e-408c-8ea0-f6e27e2d4050.png)
+![GitOpsResults](https://user-images.githubusercontent.com/120874954/211918721-cfbefaa8-42b7-410a-8668-d160e00d3f5d.png)
 
 
 
